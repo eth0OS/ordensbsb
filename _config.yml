@@ -28,8 +28,8 @@ twitter_username:
 github_username:  
 
 # Build settings
-theme: jekyll-text-theme
-# theme: minima
+# theme: jekyll-text-theme
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
