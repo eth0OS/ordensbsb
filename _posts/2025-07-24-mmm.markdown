@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Loja de Mestres Maçons da Marca"
 date:   2025-07-24 22:59:34 -0300
 categories: mmm
