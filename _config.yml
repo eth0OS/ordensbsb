@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ordens de Aperfeiçoamento \#01  
+title: Ordens de Aperfeiçoamento #01  
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site dedicado a reunir informações sobre as ordens de aperfeiçoamento do Sistema \#01.
@@ -29,11 +29,11 @@ github_username:
 
 # Build settings
 
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-remote_theme: pages-themes/merlot@v0.2.0
+# remote_theme: pages-themes/merlot@v0.2.0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
